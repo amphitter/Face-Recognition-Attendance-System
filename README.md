@@ -36,7 +36,7 @@ This project is a face recognition attendance system using Python, OpenCV, face_
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/face-recognition-attendance.git
+   git clone https://github.com/amphitter/face-recognition-attendance.git
    cd face-recognition-attendance
    ```
 
